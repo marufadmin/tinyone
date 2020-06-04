@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* header area start */
+
+.header-area {
+    background: #fcdb00;
+    padding: 10px 0;
+}
+
+.menu ul li a {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: #010101 !important;
+}
+
+.menu ul li {
+    padding: 0px 30px;
+}
+
+
+/* header area end */
+
+
+/* slider area start */
+
+.slider {
+    background: #fcdb00;
+    padding: 60px 0;
+}
+
+.inspire ul li i {
+    font-size: 50px;
+    color: black;
+    padding: 15px;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.carousel-indicators {
+    bottom: -60px;
+}
+
+.carousel-indicators li:hover {
+    background-color: black;
+}
+
+.carousel-indicators li:active {
+    background-color: black;
+}
+
+
+/* slider area end */
+
+
+/* font-family: 'PT Sans', sans-serif; */
